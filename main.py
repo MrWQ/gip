@@ -1,2 +1,2 @@
 import requests
-requests.get("http://ordar.eu.org:9090/2.html")
+requests.get("http://ordar.eu.org:9090/gip.html")
